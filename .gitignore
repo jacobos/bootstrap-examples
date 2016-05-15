@@ -1,0 +1,7 @@
+# para ignorar los ficheros acabados en .swp añado la siguiente linea
+*.swp
+
+#para ignorar los acabados en .o y .a
+*.[oa]
+
+# los que tu quieras que no se monitoreen aquí debajo...
