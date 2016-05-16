@@ -1,3 +1,3 @@
 # bootstrap-examples
 
-Just a few examples of bootstrap to show how github works
+Just a few bootstrap examples to show how github works
